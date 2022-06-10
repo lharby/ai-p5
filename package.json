@@ -1,0 +1,15 @@
+{
+  "name": "ai-p5",
+  "version": "1.0.0",
+  "description": "AI-P5",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Luke Harby",
+  "license": "ISC",
+  "dependencies": {
+    "ml5": "^0.12.2",
+    "p5": "^1.4.1"
+  }
+}
